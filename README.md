@@ -1,5 +1,7 @@
 # Delete duplicate files
 
+Incomplete cus I'm still learnin'
+
 Forked from: https://github.com/matthewrenze/rename-images
 Not used for the same purpose but I modified it 
 
@@ -16,3 +18,4 @@ Behavior:
 
 Notes:
   - For safety, please make a backup before running this script
+  
