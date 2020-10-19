@@ -3,9 +3,7 @@
 Incomplete cus I'm still learnin'
 
 Forked from: https://github.com/matthewrenze/rename-images
-Not used for the same purpose but I modified it 
-
-Author: Matthew Renze
+Not used for the same purpose but I used it as a base 
 
 Usage: python.exe Rename.py input-folder
   - input-folder = the directory containing the image files to be renamed
