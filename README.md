@@ -1,5 +1,5 @@
 # Delete duplicate files
-
+## Doesn't seem to work, please don't use it right now
 Forked from: https://github.com/matthewrenze/rename-images
 
 Not used for the same purpose but I used it as the base 
