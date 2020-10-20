@@ -1,14 +1,12 @@
 # Delete duplicate files
 
-Incomplete cus I'm still learnin'
-
 Forked from: https://github.com/matthewrenze/rename-images
-Not used for the same purpose but I used it as a base 
+Not used for the same purpose but I used it as the base 
 
 Usage: python.exe Rename.py input-folder
   - input-folder = the directory containing the image files to be renamed
 
-Example: python.exe Rename.py C:\Photos
+Example: python Deletion.py C:\Photos
 
 Behavior:  
  - Given a filed named "foobar.jpg" and "foobar (1).jpg"   
