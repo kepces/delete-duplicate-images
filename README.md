@@ -1,6 +1,7 @@
 # Delete duplicate files
 
 Forked from: https://github.com/matthewrenze/rename-images
+
 Not used for the same purpose but I used it as the base 
 
 Usage: python.exe Rename.py input-folder
